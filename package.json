@@ -1,0 +1,11 @@
+{
+  "name": "srg-letterbox-web-assets",
+  "version": "1.0.0",
+  "description": "assets for srg letterbox plaer web",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}

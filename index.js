@@ -17,3 +17,7 @@ export {
 export {
     default as swi,
 } from './assets/svg/play-swi.svg';
+
+export {
+    default as swi,
+} from './assets/fonts/srgssr-type-md.ttf';

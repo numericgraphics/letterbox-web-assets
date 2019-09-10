@@ -19,5 +19,5 @@ export {
 } from './assets/svg/play-swi.svg';
 
 export {
-    default as swi,
+    default as srgFontMD,
 } from './assets/fonts/srgssr-type-md.ttf';
